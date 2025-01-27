@@ -1,10 +1,10 @@
-## Hi 😀 I'm Grzesiek Bańkowski
+## Hi 😀 I'm Grzesiek
 
-### I’m a passionate beginner PHP developer from Biała Podlaska, Poland
+### I’m a passionate PHP developer from Biała Podlaska, Poland
 - 👨‍💻 I have been passionate about programming for many years, especially the PHP language.
 - 🌱 Currently I am focusing in polish my skills in PHP, SQL, Git, Composer, Laravel, Symfony.
 - 💜 I contribute to polish translation of the PHP documentation.
-- 🔍 I am looking for my first trainee, internship or job as Junior PHP Developer.
+- 🔍 I am looking for my first trainee, internship or job as junior PHP developer.
 
 ### My projects
 - [Correspondence Register](https://github.com/grzegorz-bankowski/correspondence-register)
