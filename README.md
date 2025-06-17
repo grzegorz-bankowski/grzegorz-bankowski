@@ -8,6 +8,7 @@
 
 ### My projects
 - [Correspondence Register](https://github.com/grzegorz-bankowski/correspondence-register)
+- [Transport Freight Exchange (under development)](https://github.com/grzegorz-bankowski/transport-freight-exchange)
 
 ### Languages and tools
 [![Languages and tools](https://skillicons.dev/icons?i=php,laravel,symfony,git,mysql,vscode,phpstorm)](https://skillicons.dev)
