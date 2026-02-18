@@ -9,7 +9,7 @@
 
 ### My projects
 - [Correspondence Register](https://github.com/grzegorz-bankowski/correspondence-register)
-- [Transport Freight Exchange (under development)](https://github.com/grzegorz-bankowski/transport-freight-exchange)
+- [Freight Exchange](https://github.com/grzegorz-bankowski/freight-exchange)
 
 ### Languages and tools
 [![Languages and tools](https://skillicons.dev/icons?i=php,laravel,symfony,git,mysql,vscode,phpstorm)](https://skillicons.dev)
@@ -17,7 +17,7 @@
 ### Contact with me
 - [E-mail](mailto:grzegorz@bankowski.dev)
 - [Linkedin](https://www.linkedin.com/in/grzegorz-bankowski)
-- [Twitter](https://twitter.com/g_bankowski)
+- [X / Twitter](https://X.com/g_bankowski)
 - [Facebook](https://www.facebook.com/grzegorz.bankowski.fb)
 - [Instagram](https://www.instagram.com/grzegorz.bankowski)
 - [Website](https://bankowski.dev)
