@@ -5,7 +5,7 @@
 - 🌱 Currently I am focusing in polish my skills in PHP, SQL, Git, Composer, Docker, Laravel, Symfony.
 - 💜 I contribute to polish translation of the PHP documentation.
 - 🔍 I am looking for a practice, internship or job as an junior PHP developer.
-- 🏠 Biała Podlaska, Poland
+- 🏠 Biała Podlaska / Warsaw, Poland
 
 ### My projects
 - [Correspondence Register](https://github.com/grzegorz-bankowski/correspondence-register)
