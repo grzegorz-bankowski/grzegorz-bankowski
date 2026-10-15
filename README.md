@@ -1,10 +1,9 @@
 ## Hi! I'm Grzesiek 👋
 
-### I am an aspiring php developer eager to contribute and grow within a dynamic team
+### I am a PHP Developer eager to contribute and grow within a dynamic team
 - 👨‍💻 I have been passionate about programming for many years, especially the PHP language
-- 🌱 Currently I am focusing in polish my skills in PHP, Testing with PHPUnit, GIT, SQL, Symfony & Laravel
+- 🌱 Currently I am focusing in polish my skills in PHP, Testing / PHPUnit, GIT, SQL, Symfony & Laravel
 - 💜 I contributed to polish translation of the PHP documentation
-- 🔍 I am looking for an internship or job as a Junior PHP Developer
 - 🏠 Biała Podlaska, Poland
 
 ### My projects
